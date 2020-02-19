@@ -18,7 +18,7 @@
 		<h2.version>1.4.194</h2.version>
 		<quartz.version>2.2.1</quartz.version>
 		<project.build.remedydependencies>D://ip/ERSS/ITSM/Developement/api910win</project.build.remedydependencies>
-		<tomcat.version>8.5.5</tomcat.version>
+		<tomcat.version>9.0.31</tomcat.version>
 		<!-- <start-class>com.ip.erss.competency.iamautomation.SpringBootWebApplication</start-class> -->
 	</properties>
 
